@@ -1,0 +1,1 @@
+This is Gendaji's first git project!
